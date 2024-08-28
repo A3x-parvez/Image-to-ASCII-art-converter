@@ -1,13 +1,19 @@
-# # Image-to-ASCII-art-converter
+# Image-to-ASCII-Art Converter
 
-## #About the program.
-#### It is a simple Image to ascii art converter tool written in python language,the program is using the pywhatkit module to convert the image into ascii text.it is simple project idea for python beginers.
+## About the Program
+This is a simple image-to-ASCII art converter tool written in Python. It uses the `pywhatkit` module to convert images into ASCII text. This project is ideal for Python beginners to explore basic image processing and file handling concepts.
 
-## # How to use this tool.
-#### Step-1 : At first open the "Image-to-ASCII-art-converter" folder into any code editor (ex: VsCode).
-#### Step-2 : After that move your input image into to "input_img" folder and give it a suitable name (ex:demo.jpg).
-#### Step-3 : Run the main.py file and give the image.jpg file as input and press enter.
-#### Step-4 : After the program running sucessfully the output file store inside the "output_file" folder as .txt format.
-#### Step-5 : You can use the "demo-ascii-art.txt" which contain the ascii art of the input image.
+## How to Use This Tool
+1. **Setup**: Open the `Image-to-ASCII-Art-Converter` folder in your preferred code editor (e.g., VSCode).
+2. **Prepare Input**: Move your input image into the `input_img` folder and give it a suitable name (e.g., `demo.jpg`).
+3. **Run the Program**: Run the `main.py` file. When prompted, enter the name of the image file (e.g., `demo.jpg`) and press Enter.
+4. **View Output**: After the program runs successfully, the ASCII art will be saved in the `output_file` folder as a `.txt` file.
+5. **Example**: You can refer to `demo-ascii-art.txt`, which contains the ASCII art generated from the sample input image.
 
-### Thank you .
+## Requirements
+- Python 3.x
+- `pywhatkit` module
+
+To install the required module, run:
+```bash
+pip install pywhatkit

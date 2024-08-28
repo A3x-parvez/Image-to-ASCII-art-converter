@@ -14,15 +14,15 @@ This is a simple image-to-ASCII art converter tool written in Python. It uses th
 - Python 3.x
 - `pywhatkit` module
 
-To install the required module, run:
-  ```bash
-  pip install pywhatkit
+ To install the required module, run:
+   ```bash
+    pip install pywhatkit
 
-To clone the repository in your local mechine:
-  ```bash
-  git clone https://github.com/A3x-parvez/Image-to-ASCII-art-converter.git
+ To clone the repository in your local mechine:
+   ```bash
+    git clone   https://github.com/A3x-parvez/Image-to-ASCII-art-converter.git
 
-To run the script on cmd:
-  ```bash
-  python main.py
+ To run the script on cmd:
+   ```bash
+    python main.py
 

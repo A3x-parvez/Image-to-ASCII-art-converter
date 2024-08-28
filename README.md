@@ -20,9 +20,9 @@ This is a simple image-to-ASCII art converter tool written in Python. It uses th
 
  To clone the repository in your local mechine:
     ```bash
-    git clone           https://github.com/A3x-parvez/Image-to-ASCII-art -converter.git```
+    git clone           https://github.com/A3x-parvez/Image-to-ASCII-art -converter.git
  
  To run the script on cmd:
     ```bash
-    python main.py```
+    python main.py
 
